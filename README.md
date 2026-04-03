@@ -43,15 +43,15 @@ Chat + Team Matching
 </p>
 
 <p align="center">
-  <img src="images/5.jpg" width="220" style="vertical-align: top;"/>
-  <img src="images/6.jpg" width="220" style="vertical-align: top;"/>
-  <img src="images/8.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/5.jpg" width="220" style="vertical-align: bottom;"/>
+  <img src="images/6.jpg" width="220" style="vertical-align: bottom;"/>
+  <img src="images/8.jpg" width="220" style="vertical-align: bottom;"/>
 </p>
 
 <p align="center">
-  <img src="images/9.jpg" width="220" style="vertical-align: top;"/>
-  <img src="images/11.jpg" width="220" style="vertical-align: top;"/>
-  <img src="images/12.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/9.jpg" width="220" style="vertical-align: bottom;"/>
+  <img src="images/11.jpg" width="220" style="vertical-align: bottom;"/>
+  <img src="images/12.jpg" width="220" style="vertical-align: bottom;"/>
 </p>
 ⚡ Hackathon Journey
 
