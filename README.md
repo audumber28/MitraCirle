@@ -45,6 +45,8 @@ This experience taught us:
 Real-world teamwork
 Rapid problem-solving
 Confidence in bold ideas
+📱 Screenshots
+<p align="center"> <img src="images/2.jpg" width="250"/> <img src="images/3.jpg" width="250"/> <img src="images/4.jpg" width="250"/> </p> <p align="center"> <img src="images/5.jpg" width="250"/> <img src="images/6.jpg" width="250"/> <img src="images/8.jpg" width="250"/> </p> <p align="center"> <img src="images/9.jpg" width="250"/> <img src="images/11.jpg" width="250"/> <img src="images/12.jpg" width="250"/> </p>
 👥 Team
 Shubh Solanki
 Shaun D'Souza
