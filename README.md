@@ -34,14 +34,25 @@ Cloudinary
 AI
 Chat + Team Matching
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="images/2.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/3.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/4.jpg" width="220" style="vertical-align: top;"/>
 </p>
-📱 App Screenshots
-🔹 Main Screens
-<p align="center"> <img src="images/2.jpg" width="220"/> <img src="images/3.jpg" width="220"/> <img src="images/4.jpg" width="220"/> </p>
-🔹 Features & Discovery
-<p align="center"> <img src="images/5.jpg" width="220"/> <img src="images/6.jpg" width="220"/> <img src="images/8.jpg" width="220"/> </p>
-🔹 Profile & Community
-<p align="center"> <img src="images/9.jpg" width="220"/> <img src="images/11.jpg" width="220"/> <img src="images/12.jpg" width="220"/> </p>
+
+<p align="center">
+  <img src="images/5.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/6.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/8.jpg" width="220" style="vertical-align: top;"/>
+</p>
+
+<p align="center">
+  <img src="images/9.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/11.jpg" width="220" style="vertical-align: top;"/>
+  <img src="images/12.jpg" width="220" style="vertical-align: top;"/>
+</p>
 ⚡ Hackathon Journey
 
 Built from scratch in just 24 hours:
