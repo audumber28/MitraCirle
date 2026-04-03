@@ -1,53 +1,58 @@
 🚀 MitraCircle – Hackathon Winning Project
-
-🏆 Track Winner at Tech-Tonics (24-hour Hackathon)
-Organized by NIT Goa in collaboration with GDG NIT Goa
-
+<p align="center"> 🏆 <b>Track Winner</b> at <b>Tech-Tonics (24-hour Hackathon)</b><br> Organized by <b>NIT Goa</b> in collaboration with <b>GDG NIT Goa</b> </p>
 📌 Overview
 
 MitraCircle is a mobile application designed to help students connect, collaborate, and grow together.
 
-The idea was to bridge the gap between:
+It bridges the gap between:
 
 💼 LinkedIn’s professionalism
 🌐 Social media’s chaos
 
-By creating a focused, student-centric collaboration platform.
+➡️ By creating a focused, student-first collaboration platform
 
-💡 Features
-🔍 Discover Projects
-Find and join exciting projects that match your interests
-🤝 Team Building
-Connect with students having complementary skills
-📍 Event Discovery
-Explore and join hackathons and tech events
-💼 Profile Showcase
-Display GitHub profiles and technical skills
-🎟️ Hackathon Listings
-Stay updated with upcoming opportunities
-💬 Collaboration Dashboard
-Personalized space for seamless teamwork
+✨ Key Features
+Feature	Description
+🔍 Discover Projects	Find and join exciting projects
+🤝 Team Building	Connect with students with matching skills
+📍 Event Discovery	Explore hackathons & tech events
+💼 Profile Showcase	Display GitHub & skills
+🎟️ Hackathon Listings	Stay updated with opportunities
+💬 Collaboration Dashboard	Manage teamwork efficiently
 🧠 Tech Stack
-Frontend: React Native
-Backend: Firebase
-Media Management: Cloudinary
-AI Features: Chat & Team Matching
+<p align="center">
+
+Frontend
+React Native
+
+Backend
+Firebase
+
+Media
+Cloudinary
+
+AI
+Chat + Team Matching
+
+</p>
+📱 App Screenshots
+🔹 Main Screens
+<p align="center"> <img src="images/2.jpg" width="220"/> <img src="images/3.jpg" width="220"/> <img src="images/4.jpg" width="220"/> </p>
+🔹 Features & Discovery
+<p align="center"> <img src="images/5.jpg" width="220"/> <img src="images/6.jpg" width="220"/> <img src="images/8.jpg" width="220"/> </p>
+🔹 Profile & Community
+<p align="center"> <img src="images/9.jpg" width="220"/> <img src="images/11.jpg" width="220"/> <img src="images/12.jpg" width="220"/> </p>
 ⚡ Hackathon Journey
 
-Built from scratch in just 24 hours, this project was a result of:
+Built from scratch in just 24 hours:
 
 💭 Intense brainstorming
 ☕ Lots of caffeine
 💻 Non-stop coding
-
-This experience taught us:
-
+🚀 What We Learned
 Real-world teamwork
 Rapid problem-solving
-Confidence in bold ideas
-📱 Screenshots
-<p align="center"> <img src="images/2.jpg" width="250"/> <img src="images/3.jpg" width="250"/> <img src="images/4.jpg" width="250"/> </p> <p align="center"> <img src="images/5.jpg" width="250"/> <img src="images/6.jpg" width="250"/> <img src="images/8.jpg" width="250"/> </p> <p align="center"> <img src="images/9.jpg" width="250"/> <img src="images/11.jpg" width="250"/> <img src="images/12.jpg" width="250"/> </p>
+Execution under pressure
+Belief in bold ideas
 👥 Team
-Shubh Solanki
-Shaun D'Souza
-Audumber Shirodkar
+<p align="center"> <b>Shubh Solanki</b> • <b>Shaun D'Souza</b> • <b>Audumber Shirodkar</b> </p>
